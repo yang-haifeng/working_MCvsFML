@@ -1,0 +1,6 @@
+hltau		; Problem type
+-1		; rho0 at Rc
+5.176868e-01	; Cabs
+5.640267e-03	; Csca
+45		; viewing angle
+result.dat	; output data file name
