@@ -12,7 +12,7 @@ LS  = 3.8525e33      # Solar luminosity        [erg/s]
 RS  = 6.96e10        # Solar radius            [cm]
 
 # Monte Carlo parameters
-nphot = 1000000
+nphot = 40000000
 
 # Grid parameters
 nx       = 128
